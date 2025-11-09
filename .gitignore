@@ -1,8 +1,30 @@
-# Default ignored files
-/shelf/
-/workspace.xml
-# Editor-based HTTP Client requests
+# Build outputs
+/out/
+/target/
+/bin/
+*.class
+*.jar
+*.war
+*.ear
+
+# IDE/editor
+/.idea/
+*.iml
+.DS_Store
+
+# Logs and temporary files
+*.log
+*.tmp
+
+# Editor HTTP client requests
 /httpRequests/
+
 # Datasource local storage ignored files
 /dataSources/
-/dataSources.local.xml
+dataSources.local.xml
+
+# Reports folder (generated at runtime)
+report/
+
+# Local config
+config.local.properties
