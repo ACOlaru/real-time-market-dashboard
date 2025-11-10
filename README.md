@@ -122,3 +122,9 @@ TSLA     98         38.2       735.12     28000.3    710.0      750.0      0.95 
 * Integrate real market APIs for live data instead of simulated trades.
 * Build a web or GUI dashboard (JavaFX, Swing, or Spring Boot).
 * Add alerts for unusual activity or top movers.
+* 
+## Learn More
+
+I wrote a detailed article about this project on Medium, explaining the architecture, design patterns, and concurrency challenges:
+
+[Decoding the Stream: A Concurrent Java Simulator using the Observer Pattern for Live Metrics Dashboard](https://medium.com/@olarualexandra/decoding-the-stream-a-concurrent-java-simulator-using-the-observer-pattern-for-live-metrics-6ab08fcc2b8a)
